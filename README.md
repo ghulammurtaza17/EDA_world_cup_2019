@@ -58,6 +58,6 @@ Activity Pattern: Frequency peaked mid-tournament
 
 
 🔗 Connect with Me
-GitHub Repository: [https://github.com/YOUR_USERNAME/EDA_world_cup_2019](https://github.com/ghulammurtaza17/EDA_world_cup_2019.git)
+GitHub Repository: https://github.com/ghulammurtaza17/EDA_world_cup_2019.git
 
-LinkedIn Post: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+LinkedIn Post: https://www.linkedin.com/in/ghulam-murtaza-b24280331/recent-activity/all/
